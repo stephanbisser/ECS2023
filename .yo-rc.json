@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Stephan Bisser"
+    },
+    "libraryName": "ecsBasicDemo",
+    "generator-version": "4.1.0"
+  }
+}
